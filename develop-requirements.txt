@@ -8,4 +8,5 @@
 #django-debug-toolbar
 #pylint
 #pylint-django
-#pep8
+pep8
+flake8
