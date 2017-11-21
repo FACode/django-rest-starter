@@ -1,0 +1,11 @@
+# -------------------- #
+# PIP requirements for #
+#  -- Development --   #
+# -------------------- #
+
+-r requirements.txt
+
+#django-debug-toolbar
+#pylint
+#pylint-django
+#pep8

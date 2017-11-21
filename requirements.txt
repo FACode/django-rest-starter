@@ -1,0 +1,7 @@
+# -------------------- #
+# PIP requirements for #
+#  --- Production ---  #
+# -------------------- #
+
+Django==1.11.*
+djangorestframework==3.7.*
